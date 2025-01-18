@@ -1,4 +1,26 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/x_3ULh4W)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17694163)
 # Note to Shelf
+# Simple Notes Script
+
+This is a simple Bash script for managing notes. It allows you to add, list, and search notes stored in a `notes.txt` file.
+
+---
+
+## Features
+- **Add a Note**: Append a timestamped note to the `notes.txt` file.
+- **List Notes**: Display all notes in the file.
+- **Search Notes**: Search for notes containing a specific keyword.
+
+---
+
+## Usage
+
+Run the script with one of the following commands:
+
+### Add a Note
+```bash
+./script_name.sh add "Your note text"
 
 <!--
 
